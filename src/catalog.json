@@ -1,0 +1,375 @@
+{
+  "assets": {
+    "product-1": {
+      "local": "/media/product-1.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/HA_STICK_-_Homepage_Tile.jpg?v=1782411932&width=630",
+      "width": 500,
+      "height": 677,
+      "small": "/media/product-1-small.webp",
+      "smallWidth": 320
+    },
+    "pack-1": {
+      "local": "/media/pack-1.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Face_Neck_Firming_Retinal_Stick_Collection_Page_133cd9ed-ead5-4bc4-8222-f39d3d9ed403.png?v=1788375616&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-2": {
+      "local": "/media/product-2.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Model_af2c9b5b-b828-4d8c-8ab1-47a1b015df18.jpg?v=1770315005&width=630",
+      "width": 500,
+      "height": 625,
+      "small": "/media/product-2-small.webp",
+      "smallWidth": 320
+    },
+    "pack-2": {
+      "local": "/media/pack-2.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Eye_Treatment_Collection_Page_d6fb970a-c4d0-481c-a7dc-6135cbd440ec.png?v=1789005039&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-3": {
+      "local": "/media/product-3.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/AZELAIC_ACID_SERUM_-_Navigation_Tile_-_Model.jpg?v=1790053609&width=630",
+      "width": 485,
+      "height": 646,
+      "small": "/media/product-3-small.webp",
+      "smallWidth": 320
+    },
+    "pack-3": {
+      "local": "/media/pack-3.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Azelaic_Acid_Serum_Collection_Page.jpg?v=1789166995&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-4": {
+      "local": "/media/product-4.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/CU_PEPTIDE_SERUM_-_Navigation_Tile.jpg?v=1783972256&width=630",
+      "width": 485,
+      "height": 646,
+      "small": "/media/product-4-small.webp",
+      "smallWidth": 320
+    },
+    "pack-4": {
+      "local": "/media/pack-4.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Copper_Peptide_Collection_Page_109b0109-7c2e-47e4-9de7-706416a06b0c.png?v=1789004582&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-5": {
+      "local": "/media/product-5.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/REM_REMEDY_Homepage_DarkSpots_1_7949dfb0-e083-45ad-b4f0-2261d223258b.jpg?v=1746180162&width=630",
+      "width": 500,
+      "height": 677,
+      "small": "/media/product-5-small.webp",
+      "smallWidth": 320
+    },
+    "pack-5": {
+      "local": "/media/pack-5.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Dark_Spot_Treatment_Collection_Page_Image_b4bf54b8-4689-4fb9-bc28-9f79ef65a9d9.png?v=1788375617&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-6": {
+      "local": "/media/product-6.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Daily_Defense_FYR.jpg?v=1766773410&width=630",
+      "width": 383,
+      "height": 510,
+      "small": "/media/product-6-small.webp",
+      "smallWidth": 320
+    },
+    "pack-6": {
+      "local": "/media/pack-6.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Daily_Defense_Collection_Page.png?v=1788375619&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-7": {
+      "local": "/media/product-7.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/HYDRATING_SERUM_-_Homepage_Tile.jpg?v=1786417670&width=630",
+      "width": 500,
+      "height": 677,
+      "small": "/media/product-7-small.webp",
+      "smallWidth": 320
+    },
+    "pack-7": {
+      "local": "/media/pack-7.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Hydration_Serum_Collection_Page.png?v=1788375618&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "product-8": {
+      "local": "/media/product-8.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Nav_Card_-_Rich_Cream_1.jpg?v=1742844175&width=630",
+      "width": 500,
+      "height": 677,
+      "small": "/media/product-8-small.webp",
+      "smallWidth": 320
+    },
+    "pack-8": {
+      "local": "/media/pack-8.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Barrier_Repairing_Rich_Cream_Moisturizer_Collection_Page_Eczema_Seal_8ec00b08-2e3f-48c4-b8d8-edb0d599ba4d.png?v=1789004788&width=630",
+      "width": 400,
+      "height": 400
+    },
+    "badge": {
+      "local": "/media/badge.svg",
+      "url": "https://remedyskin.com/cdn/shop/t/454/assets/brand-badge.svg?v=143925284756206658071794882505"
+    },
+    "stephanie": {
+      "local": "/media/stephanie.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Stephanie2.jpg?v=1737482560&width=1200",
+      "width": 638,
+      "height": 859,
+      "small": "/media/stephanie-small.webp",
+      "smallWidth": 320
+    },
+    "sarah": {
+      "local": "/media/sarah.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Sarah2.jpg?v=1737482593&width=1200",
+      "width": 638,
+      "height": 859,
+      "small": "/media/sarah-small.webp",
+      "smallWidth": 320
+    },
+    "melvina": {
+      "local": "/media/melvina.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/Melvina2.jpg?v=1737482646&width=1200",
+      "width": 638,
+      "height": 859,
+      "small": "/media/melvina-small.webp",
+      "smallWidth": 320
+    },
+    "harm": {
+      "local": "/media/harm.svg",
+      "url": "https://remedyskin.com/cdn/shop/t/454/assets/brand-do-no-harm-v2.svg?v=12160994278532903381794882505"
+    },
+    "formulations": {
+      "local": "/media/formulations.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/REM_REMEDY_Homepage_DoNotHarm.jpg?v=1710287148&width=2200",
+      "width": 900,
+      "height": 900,
+      "small": "/media/formulations-small.webp",
+      "smallWidth": 640
+    },
+    "derm": {
+      "local": "/media/derm.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/REM_Remedy_Skinpedia_1.jpg?v=1710377031&width=2200",
+      "width": 900,
+      "height": 900,
+      "small": "/media/derm-small.webp",
+      "smallWidth": 640
+    },
+    "skinpedia": {
+      "local": "/media/skinpedia.webp",
+      "url": "https://remedyskin.com/cdn/shop/files/REEM_Remedy_Homepage_Skinpedia.jpg?v=1710286499&width=2200",
+      "width": 1500,
+      "height": 868,
+      "small": "/media/skinpedia-small.webp",
+      "smallWidth": 640
+    },
+    "android": {
+      "local": "/media/android.webp",
+      "url": "https://cdn.fuego.io/google-play.png",
+      "width": 900,
+      "height": 274
+    },
+    "ios": {
+      "local": "/media/ios.webp",
+      "url": "https://cdn.fuego.io/app-store.png",
+      "width": 900,
+      "height": 300
+    },
+    "regular": {
+      "local": "/media/regular.woff2",
+      "url": "https://remedyskin.com/cdn/shop/t/454/assets/HafferSQTRIAL-Regular.woff2?v=16168191468932423391794882505"
+    },
+    "bold": {
+      "local": "/media/bold.woff2",
+      "url": "https://remedyskin.com/cdn/shop/t/454/assets/HafferTRIAL-Bold.woff2?v=107178750139359100271794882505"
+    },
+    "bundle-0": {
+      "local": "/media/bundle-0.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/UPDATEDProtocolBuilderCollectionPage.png?v=1789062551",
+      "width": 480,
+      "height": 480
+    },
+    "bundle-1": {
+      "local": "/media/bundle-1.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/Deeply_Hydrating_Essentials_51496fa7-2c8a-4d2c-8aa0-50820c80f707.jpg?v=1769105300",
+      "width": 480,
+      "height": 311
+    },
+    "bundle-2": {
+      "local": "/media/bundle-2.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/Best_Selling_Advanced_Routine_PDP.png?v=1794267337",
+      "width": 480,
+      "height": 355
+    },
+    "bundle-3": {
+      "local": "/media/bundle-3.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/Essential_Discoloration_Routine_PDP.png?v=1794267336",
+      "width": 480,
+      "height": 355
+    },
+    "bundle-4": {
+      "local": "/media/bundle-4.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/Complete_Discoloration_Routine_V2_PDP_1.png?v=1794505460",
+      "width": 480,
+      "height": 355
+    },
+    "bundle-5": {
+      "local": "/media/bundle-5.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/Essentials_Best_Sellers_PDP.png?v=1794267337",
+      "width": 480,
+      "height": 355
+    },
+    "balm-pack": {
+      "local": "/media/balm-pack.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0748/6871/9912/files/Cleansing_Balm_LAB_1.jpg?v=1773893899",
+      "width": 320,
+      "height": 208
+    }
+  },
+  "products": [
+    {
+      "name": "Face & Neck Firming Retinal Stick",
+      "id": "51974253183272",
+      "href": "#product-51974253183272",
+      "image": "product-1",
+      "pack": "pack-1",
+      "price": 2800,
+      "description": "A dermatologist-developed serum stick with encapsulated retinaldehyde and firming peptides that visibly firms and tightens the face, neck, and chest while supporting the skin barrier."
+    },
+    {
+      "name": "Dark Circle Reducing Advanced Eye Cream",
+      "id": "49893661704488",
+      "href": "#product-49893661704488",
+      "image": "product-2",
+      "pack": "pack-2",
+      "price": 1800,
+      "description": "This targeted eye treatment delivers multi-product impact to visibly improve dark circles, puffiness, and fine lines. 0.5 fl."
+    },
+    {
+      "name": "15% Azelaic Acid Complex Clarifying Serum",
+      "id": "52281179668776",
+      "href": "#product-52281179668776",
+      "image": "product-3",
+      "pack": "pack-3",
+      "price": 2500,
+      "description": "A multi-tasking serum powered by a fully solubilized 15% azelaic acid complex that targets blemishes, redness, and dark spots in one step."
+    },
+    {
+      "name": "Copper Peptide Complex Advanced Firming Serum",
+      "id": "52079837741352",
+      "href": "#product-52079837741352",
+      "image": "product-4",
+      "pack": "pack-4",
+      "price": 3000,
+      "description": "A dermatologist-created serum built with pure GHK-Cu Copper Peptides, multi-weight hydrators and barrier-supporting ingredients to support collagen production, smooth texture, and promote a firmer, radiant look."
+    },
+    {
+      "name": "Dark Spot Correcting Advanced Serum",
+      "id": "47607410000168",
+      "href": "#product-47607410000168",
+      "image": "product-5",
+      "pack": "pack-5",
+      "price": 3500,
+      "description": "All-in-one nightly remedy that stacks the impact of multiple products in a single targeted treatment to help fade the look of existing dark spots, prevent future discoloration, and promote even tone. 1 fl."
+    },
+    {
+      "name": "15% Vitamin C Complex Brightening Serum",
+      "id": "51510278127912",
+      "href": "#product-51510278127912",
+      "image": "product-6",
+      "pack": "pack-6",
+      "price": 2800,
+      "description": "This next-gen Vitamin C delivers multi-product impact in a targeted treatment that combats environmental stressors while hydrating, soothing, and brightening the skin. 1 fl."
+    },
+    {
+      "name": "Multi-Depth Moisture Advanced Hydrating Serum",
+      "id": "52148480278824",
+      "href": "#product-52148480278824",
+      "image": "product-7",
+      "pack": "pack-7",
+      "price": 2000,
+      "description": "A dermatologist-developed serum that hydrates at three molecular depths and holds for 72 hours, with peptides, ectoin, and beta-glucan to firm the look of skin and support the barrier. Lightweight, silky, and gentle on sensitive skin."
+    },
+    {
+      "name": "Rich Cream Barrier Repairing Moisturizer",
+      "id": "49893450088744",
+      "href": "#product-49893450088744",
+      "image": "product-8",
+      "pack": "pack-8",
+      "price": 2000,
+      "description": "A rich cream moisturizer designed for normal-to-dry skin. This lipid-rich cream formula contains skin-identical ceramides that help repair the skin barrier while providing long-lasting hydration. 1.7 fl."
+    }
+  ],
+  "bundles": [
+    {
+      "name": "Protocol Builder",
+      "price": 10000,
+      "id": "50455809294632",
+      "pack": "bundle-0",
+      "image": "bundle-0",
+      "href": "#product-50455809294632",
+      "description": ""
+    },
+    {
+      "name": "Eczema-Prone Skin Routine",
+      "price": 7200,
+      "id": "50912164839720",
+      "pack": "bundle-1",
+      "image": "bundle-1",
+      "href": "#product-50912164839720",
+      "description": "A gentle double cleanse and barrier-repairing moisture for dry, eczema-prone skin. The Derm Dissolve Cleansing Balm, Cream-to-Foam Cleanser and Rich Cream have earned the National Eczema Association Seal of Acceptance\u2122. Finish with Dry Lips for chapped lips. Derm Dissolve Cleansing BalmMelts away makeup and SPF while supporting skin barrier with safflower li"
+    },
+    {
+      "name": "Best Selling Advanced Routine",
+      "price": 10400,
+      "id": "51602727207208",
+      "pack": "bundle-2",
+      "image": "bundle-2",
+      "href": "#product-51602727207208",
+      "description": "A full day-to-night routine to brighten, protect, and renew, with Vitamin C by day and retinoids by night."
+    },
+    {
+      "name": "Essential Discoloration Routine",
+      "price": 8400,
+      "id": "52320434454824",
+      "pack": "bundle-3",
+      "image": "bundle-3",
+      "href": "#product-52320434454824",
+      "description": "A full day-to-night routine to brighten, even, and protect, with Vitamin C by day and targeted dark spot treatment by night"
+    },
+    {
+      "name": "Complete Discoloration Routine",
+      "price": 14600,
+      "id": "68032555024680",
+      "pack": "bundle-4",
+      "image": "bundle-4",
+      "href": "#product-68032555024680",
+      "description": "A complete routine to brighten, even and protect, with Vitamin C and Azelaic Acid by day and targeted dark spot treatment by night."
+    },
+    {
+      "name": "Essential Best Sellers",
+      "price": 15900,
+      "id": "68032554336552",
+      "pack": "bundle-5",
+      "image": "bundle-5",
+      "href": "#product-68032554336552",
+      "description": "Our six most-loved formulas in one set, from a first cleanse that melts makeup and SPF to targeted treatments for dark spots, firmness and the eye area."
+    }
+  ],
+  "storyProducts": [
+    {
+      "name": "Derm Dissolve Cleansing Balm",
+      "price": 1800,
+      "id": "50713911132456",
+      "href": "#product-50713911132456",
+      "pack": "balm-pack",
+      "image": "balm-pack",
+      "description": "A cleansing balm for removing makeup and sunscreen."
+    }
+  ]
+}

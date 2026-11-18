@@ -1,0 +1,65 @@
+{
+  "server": "Vite production preview on localhost",
+  "viewportWidthsChecked": [
+    320,
+    375,
+    390,
+    768,
+    1024,
+    1440,
+    1920
+  ],
+  "checks": {
+    "mobile": {
+      "lighthouse": "12.8.2",
+      "testedAt": "2026-11-18T14:43:07.586Z",
+      "profile": "mobile",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "scores": {
+        "performance": 93,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 1455.18125,
+        "largest-contentful-paint": 3107.65375,
+        "total-blocking-time": 6.5,
+        "cumulative-layout-shift": 0.0006133066471699041
+      }
+    },
+    "desktop": {
+      "lighthouse": "12.8.2",
+      "testedAt": "2026-11-18T14:43:15.532Z",
+      "profile": "desktop",
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": 348.55512500000003,
+        "largest-contentful-paint": 730.26615,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0.0014007374793553885
+      }
+    }
+  },
+  "mediaNote": "The audit browser reported ERR_EMPTY_RESPONSE for the Shopify CDN. The on-device MP4 fallback matches the downloaded original byte for byte."
+}

@@ -1,0 +1,110 @@
+{
+  "clips": [
+    {
+      "key": "opinion-71",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1762351262783_17548e63-1b48-4b7c-b67c-e2e59068a3bb.mp4",
+      "label": "Cleansing balm review",
+      "preview": "/media/opinion-71-preview.mp4",
+      "productId": "50713911132456"
+    },
+    {
+      "label": "Azelaic acid serum review",
+      "key": "opinion-8",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1791324139060_wid_NmFjNTZmZWE4M2Y5MGFiYzZlNzhlZmZh.mp4",
+      "preview": "/media/opinion-8-preview.mp4",
+      "productId": "52281179668776"
+    },
+    {
+      "label": "Dark spot routine",
+      "key": "opinion-34",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1758056877193_wid_NjhjOWQxYWNhMzFkMjA0ZjkxYjUwZjVl.mp4",
+      "preview": "/media/opinion-34-preview.mp4",
+      "productId": "47607410000168"
+    },
+    {
+      "label": "Retinal stick routine",
+      "key": "opinion-19",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1789960880895_2eb7951e-e161-464a-b11d-d17150453069.mp4",
+      "preview": "/media/opinion-19-preview.mp4",
+      "productId": "51974253183272"
+    },
+    {
+      "label": "Azelaic acid first impressions",
+      "key": "opinion-26",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1790564053685_8854d943-729a-43b1-8544-a38388925f61.mp4",
+      "preview": "/media/opinion-26-preview.mp4",
+      "productId": "52281179668776"
+    },
+    {
+      "label": "Dark spot serum review",
+      "key": "opinion-12",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1758044640581_48d76ea0-2f14-4560-86f8-0ed5d299e8d4.mp4",
+      "preview": "/media/opinion-12-preview.mp4",
+      "productId": "47607410000168"
+    },
+    {
+      "label": "Dr. Shah on dark spots",
+      "key": "opinion-5",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1790378767411_wid_NmFiNzAzMGY3NmExOGQ0ZDE0NWUyNmQ0.mp4",
+      "preview": "/media/opinion-5-preview.mp4",
+      "productId": "47607410000168"
+    },
+    {
+      "label": "A closer look at Remedy",
+      "key": "opinion-1",
+      "url": "https://cdn2.videowise.com/custom-videos/videos/1758041837080_391822bb-4fe5-449f-9992-6d15528b3f77.mp4",
+      "preview": "/media/opinion-1-preview.mp4",
+      "productId": "47607410000168"
+    }
+  ],
+  "assets": {
+    "opinion-12": {
+      "local": "/media/opinion-12.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1758052049344_9f40d339-4307-43a6-aba1-742f04082dd4.webp",
+      "width": 360,
+      "height": 640
+    },
+    "opinion-8": {
+      "local": "/media/opinion-8.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1791324167511_458da9eb-e0ba-4642-a140-92cdf0d379c0.webp",
+      "width": 360,
+      "height": 642
+    },
+    "opinion-34": {
+      "local": "/media/opinion-34.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1758056943115_fbfe4e5e-618c-49c2-86d8-2f6c178bb072.webp",
+      "width": 360,
+      "height": 642
+    },
+    "opinion-5": {
+      "local": "/media/opinion-5.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1790378831687_55dfbc34-ab92-4ffc-8221-b957375c66c6.webp",
+      "width": 360,
+      "height": 642
+    },
+    "opinion-19": {
+      "local": "/media/opinion-19.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1792104035732_3618d8b2-1cdc-44f2-85b2-7efdeb89e47f.webp",
+      "width": 360,
+      "height": 642
+    },
+    "opinion-26": {
+      "local": "/media/opinion-26.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1790645026479_44e29cd1-c1f3-4bfa-a955-08eeee78f432.webp",
+      "width": 360,
+      "height": 642
+    },
+    "opinion-1": {
+      "local": "/media/opinion-1.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1758041844623_c3a3828a-0bd0-4171-8fe8-dafc33e42f41.webp",
+      "width": 360,
+      "height": 642
+    },
+    "opinion-71": {
+      "local": "/media/opinion-71.webp",
+      "url": "https://cdn2.videowise.com/converted/videos/1762461652474_76f5b561-0081-4597-879a-ddf723bdbcf0.webp",
+      "width": 420,
+      "height": 749
+    }
+  }
+}
