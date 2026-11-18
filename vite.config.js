@@ -1,16 +1,19 @@
-import { defineConfig } from "vite";
+﻿import { defineConfig } from "vite";
 import tailwind from "@tailwindcss/vite";
-export default defineConfig({
+
+export default defineConfig(({ isSsrBuild }) => ({
   plugins: [tailwind()],
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          react: ["react", "react-dom"],
-          motion: ["motion"],
-          swiper: ["swiper"],
-        },
+        manualChunks: isSsrBuild
+          ? undefined
+          : {
+              react: ["react", "react-dom"],
+              motion: ["motion"],
+              swiper: ["swiper"],
+            },
       },
     },
   },
-});
+}));
